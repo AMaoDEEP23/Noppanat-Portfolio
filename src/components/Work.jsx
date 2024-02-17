@@ -128,15 +128,20 @@ const Work = () => {
                             Green Sculpt
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/"
+                            <a href="https://greensculpt.vercel.app/"
                              target='_blank'
                              rel='noopener noreferrer'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-Black font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="/"
+                            <a href="https://github.com/Marakarn/Corgi-Milkshake-Final-Project"
                              target='_blank'
                              rel='noopener noreferrer'>
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-Black font-bold text-lg'>Code</button>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-Black font-bold text-lg'>CodeFrontend</button>
+                            </a>
+                            <a href="https://github.com/CorgiMilkshake/Backend-project"
+                             target='_blank'
+                             rel='noopener noreferrer'>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-Black font-bold text-lg'>CodeBackend</button>
                             </a>
                         </div>
                     </div>
