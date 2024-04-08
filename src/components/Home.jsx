@@ -4,11 +4,11 @@ import {HiArrowNarrowRight} from 'react-icons/hi'
 
 const Home = () => {
   return (
-    <div name = 'home' className=' bg-white flex flex-col md:flex-row'>
+    <div name = 'home' className=' bg-white flex flex-col md:flex-row pt-24'>
 
        {/* Container */}
-       <div className=' w-[250px] ml-[10rem] min-w-[300px] flex items-center mt-40 md:mt-40'>
-        <img src='ProfileLinkin.jpg'/>
+       <div className=' w-[250px] ml-[10rem] min-w-[300px] flex items-center mt-40 md:mt-40 '>
+        <img className='rounded-2xl' src='ProfileLinkin.jpg'/>
        </div>
        <div className='w-3/4'>
        <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full my-10 md:py-0'>
