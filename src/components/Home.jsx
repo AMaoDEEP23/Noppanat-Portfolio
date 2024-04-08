@@ -12,7 +12,7 @@ const Home = () => {
        </div>
        <div className='w-3/4'>
        <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full my-10 md:py-0'>
-        <p className='text-black'>Hi, my name is</p>
+        <p className='text-black font-bold'>Hi, my name is</p>
         <h1 className='text-4xl sm:text-7xl font-bold text-green-700'>Noppanat Nittayapaibool</h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-green-700'>I'm Junior Software Developer</h2>
         {/* <p className='text-black py-4 max-w-[700px]'>.....waiting for sentence.....waiting for sentence.....waiting for sentence.....waiting for sentence.....waiting for sentence.....waiting for sentence.....waiting for sentence.....waiting for sentence.....waiting for sentence.....waiting for sentence.....waiting for sentence.....waiting for sentence.....waiting for sentence</p> */}
