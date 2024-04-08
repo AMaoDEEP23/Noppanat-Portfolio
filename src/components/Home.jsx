@@ -7,7 +7,7 @@ const Home = () => {
     <div name = 'home' className=' bg-white flex flex-col md:flex-row pt-24'>
 
        {/* Container */}
-       <div className=' w-[250px] ml-[10rem] min-w-[300px] flex items-center mt-40 md:mt-40 '>
+       <div className=' w-[250px]  md:ml-[10rem] ml-16 min-w-[300px] flex items-center mt-20 md:mt-40 '>
         <img className='rounded-2xl' src='ProfileLinkin.jpg'/>
        </div>
        <div className='w-3/4'>
