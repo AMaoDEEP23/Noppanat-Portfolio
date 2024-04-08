@@ -15,7 +15,7 @@ const Home = () => {
         <p className='text-black font-bold'>Hi, my name is</p>
         <h1 className='text-4xl sm:text-7xl font-bold text-green-700'>Noppanat Nittayapaibool</h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-green-700'>I'm Junior Software Developer</h2>
-        {/* <p className='text-black py-4 max-w-[700px]'>.....waiting for sentence.....waiting for sentence.....waiting for sentence.....waiting for sentence.....waiting for sentence.....waiting for sentence.....waiting for sentence.....waiting for sentence.....waiting for sentence.....waiting for sentence.....waiting for sentence.....waiting for sentence.....waiting for sentence</p> */}
+        
         <div>
           <button className=' group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#8bca00] hover:border-[#8bca00]'>View Project 
           <span className='group-hover:rotate-90 duration-300'>
